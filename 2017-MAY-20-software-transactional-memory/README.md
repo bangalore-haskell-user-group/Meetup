@@ -4,7 +4,7 @@ Presented by [Abhiroop Sarkar][presenter]
 
 Software Transactional Memory by Abhiroop Sarkar. This talks goes into the motivation 
 behind concurrent Haskell, talks a little bit about locks and MVar and shows how they
-lack composability. It then presents STM, shows how it is composaable, what composability
+lack composability. It then presents STM, shows how it is composable, what composability
 really means. Followed by that the basic STM API is presented, and 3 examples of using
 STM to solve real world example is presented.  
 
